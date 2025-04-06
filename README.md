@@ -54,6 +54,8 @@ pip install -r requirements.txt
     - Visual charts and metrics
 6. Export data using the download buttons for further analysis
 
+![starting up](./public/interface1.jpg)
+
 ## 📊 Example Results
 After monitoring your screen activity, you'll be able to see:
 
@@ -61,6 +63,8 @@ After monitoring your screen activity, you'll be able to see:
 - How much time you spent on each application
 - When you were most active
 - Trends in your computer usage
+
+![example result](./public/interface2.jpg)
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
