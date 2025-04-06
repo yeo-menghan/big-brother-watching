@@ -1,5 +1,6 @@
 # big-brother-watching
-A privacy-focused desktop application that monitors and analyzes your screen activity to help you understand your computer usage patterns.
+
+![big bro](./public//big%20brother.jpg)
 
 ![Contributors](https://img.shields.io/github/contributors/yeo-menghan/big-brother-watching?color=dark-green) ![Issues](https://img.shields.io/github/issues/yeo-menghan/big-brother-watching) ![License](https://img.shields.io/github/license/yeo-menghan/big-brother-watching)
 
