@@ -78,6 +78,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Cross platform support (currently runs locally on Mac)
 
 ## 🙏 Acknowledgements
-Streamlit for the amazing interface framework
-OpenCV for image processing capabilities
-Pandas for data analysis
+- Streamlit for the amazing interface framework
+- OpenCV for image processing capabilities
+- Pandas for data analysis
